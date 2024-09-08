@@ -22,10 +22,10 @@ var cssFiles = [
 
 // Array of JS files to load
 var jsFiles = [
-    "ai-appindex/ai-ashish-app.js",
-    "ai-appindex/ai-ashish-app-2.js",
-    "ai-appindex/ai-ashish-aap-3.js",
-    "ai-appindex/ai-ashish-app-4.js"
+    "https://ashishappindex8797.github.io/ai-appindex/ai-ashish-app.js",
+    "https://ashishappindex8797.github.io/ai-appindex/ai-ashish-app-2.js",
+    "https://ashishappindex8797.github.io/ai-appindex/ai-ashish-aap-3.js",
+    "https://ashishappindex8797.github.io/ai-appindex/ai-ashish-app-4.js"
 ];
 
 // Load all CSS files
